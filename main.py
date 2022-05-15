@@ -57,9 +57,9 @@ number = random.randint(1, 14)
 color = ""
 
 if number == 1:
-  color = Fore.LIGHTBLUE_EXYELLOW
+  color = Fore.LIGHTBLUE_EX
 elif number == 2:
-  color = Fore.LIGHTCYAN_EXGREEN
+  color = Fore.LIGHTCYAN_EX
 elif number == 3:
   color = Fore.LIGHTBLACK_EX
 elif number == 4:
